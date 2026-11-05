@@ -1,0 +1,20 @@
+{
+  "name": "stockflow-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MikingoS/StockFlow-Finish.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.4",
+    "localtunnel": "^2.0.2"
+  }
+}
